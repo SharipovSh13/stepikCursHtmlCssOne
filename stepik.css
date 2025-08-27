@@ -1,0 +1,13 @@
+p {
+  color: #999;
+}
+p {
+  background-color: rgba(50, 120, 93);
+  padding: 10px;
+  color: #fff;
+}
+img {
+  width: 450px;
+  margin-left: 20px;
+  margin-top: 30px;
+}
