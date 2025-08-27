@@ -1,13 +1,6 @@
-p {
-  color: #999;
+section > p {
+  color: black;
 }
-p {
-  background-color: rgba(50, 120, 93);
-  padding: 10px;
-  color: #fff;
-}
-img {
-  width: 450px;
-  margin-left: 20px;
-  margin-top: 30px;
+article {
+  background: #e64c0c;
 }
